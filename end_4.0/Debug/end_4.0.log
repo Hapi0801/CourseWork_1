@@ -1,0 +1,18 @@
+﻿Сборка начата 25.07.2018 17:56:58.
+     1>Проект "C:\Users\Dima\Documents\Visual Studio 2013\Projects\end_4.0\end_4.0\end_4.0.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\end_4.0.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt end_4.0.cpp
+         end_4.0.cpp
+     1>c:\users\dima\documents\visual studio 2013\projects\end_4.0\end_4.0\end_4.0.cpp(2083): warning C4101: mas2: неиспользованная локальная переменная
+     1>c:\users\dima\documents\visual studio 2013\projects\end_4.0\end_4.0\end_4.0.cpp(2056): warning C4101: mas1: неиспользованная локальная переменная
+     1>c:\users\dima\documents\visual studio 2013\projects\end_4.0\end_4.0\end_4.0.cpp(2185): warning C4101: mas2: неиспользованная локальная переменная
+     1>c:\users\dima\documents\visual studio 2013\projects\end_4.0\end_4.0\end_4.0.cpp(2158): warning C4101: mas1: неиспользованная локальная переменная
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Dima\Documents\Visual Studio 2013\Projects\end_4.0\Debug\end_4.0.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Dima\Documents\Visual Studio 2013\Projects\end_4.0\Debug\end_4.0.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Dima\Documents\Visual Studio 2013\Projects\end_4.0\Debug\end_4.0.lib" /MACHINE:X86 Debug\end_4.0.obj
+         Debug\stdafx.obj
+         end_4.0.vcxproj -> C:\Users\Dima\Documents\Visual Studio 2013\Projects\end_4.0\Debug\end_4.0.exe
+     1>Сборка проекта "C:\Users\Dima\Documents\Visual Studio 2013\Projects\end_4.0\end_4.0\end_4.0.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:07.03
